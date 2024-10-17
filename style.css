@@ -1,0 +1,16 @@
+.mainbox {
+    width: 50%;
+    margin: auto;
+    background-color: #7BA4C2;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+.boxquestion {
+    background-color: #4A6E8B;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+  }
